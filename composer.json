@@ -1,7 +1,7 @@
 {
 	"name": "phix/dummycomponent",
 	"description": "A dummy component to deal with Packagist problems",
-	"keywords": []
+	"keywords": [],
 	"homepage": "https://github.com/stuartherbert/DummyComponent/",
 	"license": "BSD-3-Clause",
 	"authors": [
