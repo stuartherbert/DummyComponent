@@ -1,0 +1,22 @@
+{
+	"name": "phix/dummycomponent",
+	"description": "A dummy component to deal with Packagist problems",
+	"keywords": []
+	"homepage": "https://github.com/stuartherbert/DummyComponent/",
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Stuart Herbert",
+			"email": "stuart@stuartherbert.com",
+			"homepage": "http://www.stuartherbert.com",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/stuartherbert/DummyComponent/issues",
+		"source": "https://github.com/stuartherbert/DummyComponent/"
+	},
+	"autoload": {
+		"psr-0": { "" : "src/php/" }
+	}
+}
